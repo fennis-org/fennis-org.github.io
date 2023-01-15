@@ -24,8 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Fennis.org: The official homepage of the international sport of Fennis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-collections:
-  - hikes
 # google_analytics: 
 
 
